@@ -1,0 +1,2317 @@
+[
+  {
+    "id": 2015,
+    "name": "Menino Jesus de Praga",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Jardim Pedreiras",
+    "address": "Rua Sacramento, n°605, Jardim Pedreira, CEP 14.400-970",
+    "cep": "14405-203",
+    "lat": -20.5455051,
+    "lon": -47.4118438,
+    "phones": [
+      "(16) 3721-3246",
+      "(16) 99166-5483",
+      "(16) 3721-2294"
+    ],
+    "email": "meninojesus@diocesefranca.org.br",
+    "site": null,
+    "priest": "Monsenhor Sebastião Fábio Girolamo",
+    "clergy": [
+      "Vigário paroquial: Pe. Flávio Augusto Cícero",
+      "Cooperador: Diácono Amélio Rosa Barbosa Filho"
+    ],
+    "office": [
+      "Segunda a sexta-feira: das 12h30 às 18h30",
+      "Sábado: das 8h às 11h30"
+    ],
+    "image": "https://diocesefranca.org.br/images/20260524122828_1000253831.jpg",
+    "priestImage": "https://diocesefranca.org.br/images/20210516224220_padre.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "09:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Segunda a Sexta-feira: 19h",
+      "Sábado: 19h",
+      "Domingo: 9h, 17h e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Divino Pai Eterno",
+        "address": "Rua Rio Tocantins, 1470 Esquina com Purus, Residencial Amazonas",
+        "massesRaw": [
+          "Quintas-feira às 19h",
+          "Domingo às 10h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:30"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:08.547Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2015&id_orgao=1"
+  },
+  {
+    "id": 2045,
+    "name": "Paróquia Nossa Senhora Aparecida - Capelinha",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Distrito Federal, 1285, São José. Cx Postal 20, CEP 14.401-342",
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16) 3707-2222",
+      "(16) 99169-7121",
+      "(16) 99209-7808",
+      "(16) 3721-2294"
+    ],
+    "email": "dfcapelinha@hotmail.com",
+    "site": null,
+    "priest": "Frei Danilo José Janegitz, OAR",
+    "clergy": [
+      "Cooperador: Diácono José Ronaldo Carrijo"
+    ],
+    "office": [
+      "Segunda a sexta-feira: 9h00 - 18h00",
+      "Sábado: 8h30 - 11h30"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210412151344_igraja franca.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_45BFD1-0C201D-589AA3-A2AFEE-9591FC-E20AB6.jpg",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "08:30",
+          "10:30",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Segunda-feira à Sábado: 7h e 19h",
+      "Domingo 7h, 8h30, 10h30, 17h, 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora da Penha",
+        "address": "Rua Nassim Miguel, 2081 - Jardim Líbano, CEP 14.403-536",
+        "massesRaw": [
+          "2º e 4° Domingo 19h"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela Senhora de Fátima",
+        "address": "Rua Ceará, 150 - Jardim Riviera, CEP 14.402-029",
+        "massesRaw": [
+          "1° e 3º Domingo 8h30"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela Santa Marta",
+        "address": "Rua Belém, 1601 - Jardim Brasilândia, CEP 14.402-272",
+        "massesRaw": [
+          "1º e 3° Domingo 19h"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela São Francisco Xavier",
+        "address": "Rua Miguel Ozório Santos Filho, 2280 - Jardim São Luiz I, CEP 14.402-322",
+        "massesRaw": [
+          ": 2º e 4° Domingo 8h30"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela São José",
+        "address": "Rua Espírito Santo, 1780 - Vila Aparecida, CEP 14.401-226",
+        "massesRaw": [
+          "2° e 4º Domingo, 08h30"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela São Mateus",
+        "address": "Rua Francisco Miglioranza, 2549 - Jardim Palestina, CEP 14.402-336",
+        "massesRaw": [
+          ": 2º, 3º e 4° Domingo 19h"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela Nossa Senhora das Dores",
+        "address": "Rodovia Franca - Ibiraci, Km 12 (Casa Seca)",
+        "massesRaw": [
+          ": 1° e 3º Sábado, 19h"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela São Roque",
+        "address": "Rodovia Franca - Ibiraci, Km 23",
+        "massesRaw": [
+          ": 4º Sábado, 19h"
+        ],
+        "masses": []
+      },
+      {
+        "name": "Capela Divino Pai Eterno",
+        "address": "Rodovia Franca - Ibiraci, KM 18",
+        "massesRaw": [
+          ": Última Sexta- feira do mês, 19h30"
+        ],
+        "masses": []
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:12.254Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2045&id_orgao=1"
+  },
+  {
+    "id": 2047,
+    "name": "Paróquia Nossa Senhora da Guia",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": null,
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "16 99104-6520",
+      "(16) 3721-2294"
+    ],
+    "email": "nsguia@diocesefranca.org.br",
+    "site": "https://diocesefranca.org.br/nossasenhoradaguia",
+    "priest": null,
+    "clergy": [],
+    "office": [
+      "Terça a Sexta-feira: 08h - 14h",
+      "Sábado: 08h às 12h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210412210022_igreja nossa senhora da guia.jpg",
+    "priestImage": "https://diocesefranca.org.br/images/20210516224220_padre.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:30",
+          "18:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:30"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça-feira: 19h30",
+      "Sábado: 19h",
+      "Domingo: 08h30, 18h"
+    ],
+    "chapels": [
+      {
+        "name": "Comunidade São Marcos",
+        "address": "Rua",
+        "massesRaw": [
+          "Quinta-feira, 19h30 e Domingo, 10h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:30"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:16.337Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2047&id_orgao=1"
+  },
+  {
+    "id": 2053,
+    "name": "Paróquia Sagrado Coração de Jesus",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Gilberto de Aguilar, n°771, Jardim Paulistano II, CEP 14.402-410",
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16) 3703-3938",
+      "(16) 99167-2199",
+      "(16) 3721-2294"
+    ],
+    "email": "sagradocoracaodejesusfranca@hotmail.com",
+    "site": null,
+    "priest": "Pe Ovídio José Alves de Andrade",
+    "clergy": [
+      "Vigário paroquial: Pe Marcos Valentin Nerone",
+      "Cooperador: Diácono Everton Pereira e Diácono Maurílio Antônio da Silva"
+    ],
+    "office": [
+      "Terça a Sexta-feira das 08h30 às 12h30 e das 14h às 18h",
+      "Sábado das 08h às 12h",
+      "Atendimento com os padres",
+      "Terça a Sexta-feira: 09h às 11h e das 14h30 às 17h",
+      "Sábado das 08h às 11h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413012628_5.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_63C97B-924C4A-3EF21F-5F1651-2DDE2A-12A4CA.jpg",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "10:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "1ª Sexta – feira do mês às 18h15 Adoração ao Santíssimo e 19h missa",
+      "Sexta – feira às 19h",
+      "Sábado às 19h",
+      "Domingo às 07h, 10h e às 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela São Lucas",
+        "address": "Rua Natal, 800 – Jardim Brasilândia. CEP 14.402-265",
+        "massesRaw": [
+          "Segunda – Feira às 19h",
+          "1° Sexta-feira às 15h Adoração ao Santíssimo e 15h30 missa",
+          "Domingo às 08h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:30"
+            ]
+          },
+          {
+            "day": "Segunda-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Francisco de Assis",
+        "address": "Av. Ricardo Alexsander de Andrade, 330 – Jardim São Francisco. CEP 14.402-600",
+        "massesRaw": [
+          "Terça – Feira às 19h",
+          "1° Sexta-feira às 15h30 Adoração ao Santíssimo e 16h missa",
+          "Sábado às 19h"
+        ],
+        "masses": [
+          {
+            "day": "Terça-feira",
+            "times": [
+              "19:00"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Paulo",
+        "address": "Rua Gilberto de Aguilar,1381 – Jardim Paulistano I. CEP 14.402-410",
+        "massesRaw": [
+          "Quarta – Feira às 19h",
+          "Sábado às 19h",
+          "1ª sexta-feira 19h e Adoração ao Santíssimo"
+        ],
+        "masses": [
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "19:00"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Divino Espírito Santo",
+        "address": "Rua Antônio Marcos, 3101– Jardim Palma CEP 14.401-083",
+        "massesRaw": [
+          "Quinta – Feira às 19h",
+          "Domingo às 19h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "19:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Geraldo Magela (Rural) Paiolzinho",
+        "address": "Missa:",
+        "massesRaw": [
+          "Domingo às 17h",
+          "1ª sexta-feira do mês 19h e Adoração ao Santíssimo"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "17:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:20.764Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2053&id_orgao=1"
+  },
+  {
+    "id": 2066,
+    "name": "Paróquia Sant’Ana",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Antonio Pedro Ferreira, n°796, Jardim Aeroporto I, CEP 14.404-040",
+    "cep": "14405-203",
+    "lat": -20.5805808,
+    "lon": -47.3751461,
+    "phones": [
+      "(16) 3701-8533",
+      "(16) 99965-1079",
+      "(16) 3721-2294"
+    ],
+    "email": "santana@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Diego Carlos Gonçalves",
+    "clergy": [
+      "Vigário paroquial: Pe Luiz Carlos de Souza"
+    ],
+    "office": [
+      "Segunda a sexta-feira: 12h às 17h",
+      "Sábados: das 09h30 às 12h",
+      "Horário de Atendimentos dos Padres",
+      "Terça a Sexta-feira: 09h30 às 12h e das 14h30 às 17h",
+      "Sábado: das 09h30 às 12h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413015700_19.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_E24738-494C37-5B8B72-B48DDF-C66E2F-A371C9.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:30",
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Domingo: 8h30 e às 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora das Dores",
+        "address": "Rua Capitão Fernando Pereira Garcia, 1107. Jardim Aeroporto I. CEP 14.404-049",
+        "massesRaw": [
+          "Terça-feira, sexta-feira e Sábado às 19h",
+          "Domingo: 8h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santa Catarina de Sena",
+        "address": "Rua Dr Fernando Costa, 500. Parque Universitário. CEP: 14.404-623",
+        "massesRaw": [
+          "Quarta- feira às 19h",
+          "Sábado às 18h"
+        ],
+        "masses": [
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "19:00"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "18:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São João Bosco",
+        "address": "Av. Euclides Vieira Coelho, 2800 - Jardim Alvorada. CEP 14.404-000",
+        "massesRaw": [
+          "Quinta-feira às 19h",
+          "Domingo às 09h30 e às 18h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:30",
+              "18:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:24.586Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2066&id_orgao=1"
+  },
+  {
+    "id": 2055,
+    "name": "Paróquia Santa Edwiges",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Av. Pe. Antônio Vieira, 555, Residencial Nova Franca, 14.409-212",
+    "cep": "34320161",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16) 99154-8206",
+      "(16) 3721-2294"
+    ],
+    "email": "psedwiges@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Célio Adriano Cintra",
+    "clergy": [],
+    "office": [
+      "3ª à 6ª: 8h30 - 12h00 / 14h00 - 18h",
+      "Sábado: 8h - 11h30"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413013106_7.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_22EE27-C1672E-55D6AC-142D77-CC06A2-F402DF.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "11:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça, Quarta, Quinta, Sexta e Sábado: 19h",
+      "Domingo: 11h e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Santa Paulina",
+        "address": "Rua Nilton Rodrigues Coelho, s.n - Res. Santa Mônica",
+        "massesRaw": [
+          "Quinta: 19h00 e Domingo 09h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:30"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Jesus Misericordioso - Parque do Mirante",
+        "address": "Avenida da Graviola, 530.",
+        "massesRaw": [
+          "Domingo: 8h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:28.338Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2055&id_orgao=1"
+  },
+  {
+    "id": 2056,
+    "name": "Paróquia Santa Gianna",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Avenida José Lopes Ribeiro, 4213, Jd Luiza II.",
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "16) 3703-5767",
+      "(16) 99388-2359",
+      "(16)3703-5767",
+      "(16) 3721-2294"
+    ],
+    "email": "santagianna121@gmail.com",
+    "site": null,
+    "priest": "Pe. Vilmar Volpato",
+    "clergy": [
+      "Vigário paroquial: Pe. Bruno Gonzales Silveira",
+      "Cooperador: Diácono Romualdo Domingos Silva Marques"
+    ],
+    "office": [
+      "2ª à 6ª: 12h30 às 18h",
+      "Sábado: 8h - 12h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210604171137_Paroquia Santa Gianna.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_5CC960-D7F8A6-42F883-392DB3-C229A0-CFC8DA.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:30"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça às 19h30",
+      "Domingo às 07h30"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora Auxiliadora",
+        "address": "Av. Dr. Abrahão Brickmann, 2675 - Jd. Luiza I - CEP - 14.407-010",
+        "massesRaw": [
+          "Missas: Quinta: 19h30 | Sábado: 19h | Domingo 7h30 e 17h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "07:30",
+              "17:30",
+              "19:00",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "07:30",
+              "17:30",
+              "19:00",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "07:30",
+              "17:30",
+              "19:00",
+              "19:30"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Nossa Senhora Do Rosário",
+        "address": "Rua José Josué da Silva, 1199 - Jd. Vera Cruz I - CEP - 14.407-488",
+        "massesRaw": [
+          "Sábado às 19h | Domingo às 09h e às 19h| Segunda a Quinta às 07h | 19h30",
+          "* Quinta as 15h00 Adoração ao Santíssimo Sacramento"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:00",
+              "19:00"
+            ]
+          },
+          {
+            "day": "Segunda-feira",
+            "times": [
+              "07:00",
+              "19:00",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Terça-feira",
+            "times": [
+              "07:00",
+              "19:00",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "07:00",
+              "19:00",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "07:00",
+              "19:00",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "09:00",
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Nossa Senhora De Fátima",
+        "address": "Av. Pastor Joaquim Honório Tostes, 4500 - Jdm Paineiras - CEP - 14.407-756",
+        "massesRaw": [
+          "Quarta: 19h30 | Domingo 9h30 e 19h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:30",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "09:30",
+              "19:30"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Nossa Senhora Do Carmo",
+        "address": "Rua Professora Vanda Gonzaga, 1481, Recanto Capitão",
+        "massesRaw": [
+          "Missas: Sábado às 17h30 | Domingo 17h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "17:30"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "17:30"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:32.007Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2056&id_orgao=1"
+  },
+  {
+    "id": 2057,
+    "name": "Paróquia Santa Luzia",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Praça Frei Roque Pissioni, S/N, Bairro São Joaquim, CEP 14.406-306",
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16)3721-0036",
+      "(16) 3721-2294"
+    ],
+    "email": "santaluzia@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Everaldo Donizete Campanaro",
+    "clergy": [],
+    "office": [
+      "Segunda-feira: 13:00 às 17:00",
+      "Terça-feira a Sexta-feira: das 8:00 às 11h e das 13h às 17h",
+      "Sábado: 8:00 às 12:00"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413013437_9.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_C31643-95CA69-1607D6-6915EC-AFCCB1-B47720.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:15"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "08:00",
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça-feira: 19:15",
+      "Quarta, quinta e Sexta-feira: 07h",
+      "Sábado: 08h e 19h",
+      "Domingo: 07:00 e 19:00",
+      "Todo dia 13 às 19:15 Missa de Santa Luzia",
+      "Todo dia 22 às 19:15 Missa de Santa Rita"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora Aparecida",
+        "address": "Rua Conceição de Souza Barbosa, 530 Jd. Zelinda",
+        "massesRaw": [
+          "Domingo: 10h00"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Rafael",
+        "address": "Rua Caetano Dal Sasso, 151 Pq. Das Esmeraldas",
+        "massesRaw": [
+          ": Quarta-feira às 19:15 / Domingo: 8h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:30"
+            ]
+          },
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "19:15"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:36.020Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2057&id_orgao=1"
+  },
+  {
+    "id": 2058,
+    "name": "Paróquia Santa Mônica",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Emílio Bertoni,1820, Jardim Dr. Antônio Petráglia, 14.409-108",
+    "cep": "37031451",
+    "lat": -20.5009735,
+    "lon": -47.3706184,
+    "phones": [
+      "(16) 3721-2294"
+    ],
+    "email": "paroquiasantamonicafranca@gmail.com",
+    "site": null,
+    "priest": "Pe Pedro Galdino de Oliveira",
+    "clergy": [],
+    "office": [
+      "Terça à Sexta-feira: 8h - 11h / 13h30 - 16h",
+      "Sábado: 08h - 11h",
+      "Atendimento do Padre:",
+      "Terça à Sexta-feira: 9h - 11h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413013659_10.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_A291A4-59C739-79AA82-51F01F-3275B9-F980A9.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:00",
+          "10:30",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça a sábado: 19h",
+      "Primeira terça- feira do mês: Missa nas casas",
+      "Domingo: 8h, 10h30, 19h"
+    ],
+    "chapels": [],
+    "scrapedAt": "2026-07-19T14:39:39.823Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2058&id_orgao=1"
+  },
+  {
+    "id": 2059,
+    "name": "Paróquia Santa Rita de Cássia",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Santa Rita",
+    "address": "Alameda Arminda Nogueira, 1735, Vila Industrial. Cx Postal 288, 14.403-374",
+    "cep": "14403-649",
+    "lat": -20.5450938,
+    "lon": -47.3945065,
+    "phones": [
+      "(16) 3702-0877",
+      "(16) 99965-1016",
+      "(16) 3721-2294"
+    ],
+    "email": "santarita@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Adilson Aparecido Fortunato",
+    "clergy": [
+      "Vigário paroquial: Pe. Antonio Carlos Barbosa",
+      "Cooperador: Diácono Leomar Rodrigues Caetano"
+    ],
+    "office": [
+      "Segunda a sexta-feira: 08h às 12h - 14h às 17h",
+      "Sábado: 08h - 12h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413013822_11.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_518B81-33B4ED-45545B-3D97A7-EE56E9-9835C3.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "18:30"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça, Quarta e Sexta-feira:19h",
+      "Sábado: 18h30",
+      "Domingo: 08h e 19h",
+      "3ª Terça-feira do mês, às 15h, Missa da saúde",
+      "Quinta-feira às 14h30, Missa com Adoração Nossa Senhora Perpétuo Socorro",
+      "Missa Votiva a Santa Rita todo dia 22 de cada mês, às 19h, exceto no sábado que continua às 18h30"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora de Lourdes",
+        "address": "Rua Dr. ChaficFacury, nº 3021, Primo Meneghetti, 14.403-680",
+        "massesRaw": [
+          ": Quinta-feira às 19h / Domingo às 10h e 17h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00",
+              "17:30"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São José Operário",
+        "address": "Rua Pedro Pucci, 3237 - Vila Scarabucci, 14403-649",
+        "massesRaw": [
+          ": Terça-feira às 19h / Domingo às 8h30 e 18h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:30",
+              "18:30"
+            ]
+          },
+          {
+            "day": "Terça-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:43.554Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2059&id_orgao=1"
+  },
+  {
+    "id": 2062,
+    "name": "Paróquia Santa Teresinha",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Paulo Francisco Queiroz Arruda, 760, Jd. Redentor, 14.409-286",
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16) 3703-1309",
+      "(16) 99406-4528",
+      "(16) 3721-2294"
+    ],
+    "email": "paroquiasantateresinhafranca@gmail.com",
+    "site": null,
+    "priest": "Pe. Antônio de Pádua Dias",
+    "clergy": [
+      "Cooperador: Diácono Rubens Andrade Dias"
+    ],
+    "office": [
+      "secretaria paroquial:",
+      "Segunda a sexta feira: 08h00 às 13h e 14h às 17h00",
+      "Sábado: 08h00 as 12h00",
+      "Horários",
+      "de Missas:",
+      "Matriz",
+      "Santa Teresinha",
+      "Terça e quarta: 19h00",
+      "Sexta - feira: 07h",
+      "Sábado: 18h",
+      "Domingo: 08h e 18h."
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413014308_15.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_BABAFC-590C10-01D336-57C05D-0E252F-CF2F8D.png",
+    "masses": [],
+    "massesRaw": [
+      "Toda 1° sexta-feira do mês: Missa do Sagrado Coração de Jesus às 07h e às 18h."
+    ],
+    "chapels": [
+      {
+        "name": "Capela Santo Tomás de Aquino",
+        "address": "Av.",
+        "massesRaw": [
+          "Quinta-feira: 19h",
+          "Domingo: 10h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:47.296Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2062&id_orgao=1"
+  },
+  {
+    "id": 2067,
+    "name": "Paróquia São Benedito",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Boa Vista",
+    "address": "Rua Carlos de Vilhena, 3070, Chico Júlio, 14.405-203",
+    "cep": "14405-146",
+    "lat": -20.5242656,
+    "lon": -47.4067205,
+    "phones": [
+      "(16) 3701-5605",
+      "(16) 3721-2294"
+    ],
+    "email": "sbenedito@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe.",
+    "clergy": [
+      "Vigário paroquial: Pe. Antonio José Salomão Vicente",
+      "Cooperador: Diácono Wilson Ramos"
+    ],
+    "office": [
+      "Segunda à Sexta - das 8h às 11h e 13h às 18h",
+      "Sábado - 8h às 11h30"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413015735_20.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_AAAB9E-2F7D9D-B508DE-FE39BF-F2E6BC-DEF20A.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "06:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "06:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "06:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "06:00",
+          "15:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "06:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "06:00",
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Quinta às 15h, na Matriz : Missa e novena de Nª Srª do Perpétuo Socorro",
+      "Sábado 19h",
+      "Domingo 07h, 17h e 19h",
+      "segunda a sábado às 06h e segunda e sexta às 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora do Sagrado Coração",
+        "address": "Rua Abrão Jorge, 3469 - Jardim Guanabara",
+        "massesRaw": [
+          "Missas: Quarta-feira às 19h e Domingo às 10h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          },
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Paulo",
+        "address": "Rua Antônio Bernardes Pinto, 4620 - Vl, Chico Júlio",
+        "massesRaw": [
+          "Missas: Terça-feira às 19h e Domingo às 8h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:30"
+            ]
+          },
+          {
+            "day": "Terça-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Padre Pio",
+        "address": "Rua: Francisco Naline, 3699 - Parque São Jorge",
+        "massesRaw": [
+          "Missas Quinta às 19h e Domingo às 10h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:51.035Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2067&id_orgao=1"
+  },
+  {
+    "id": 2068,
+    "name": "Paróquia São Crispim",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Av. Teodomiro Ramos, 760, City Petrópolis, CEP 14409-544",
+    "cep": "14409-544",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16) 3703-8330",
+      "(16) 99967-0220",
+      "(16) 3721-2294"
+    ],
+    "email": "paroquiasaocrispim@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Geraldo José Urbinatti",
+    "clergy": [
+      "Vigário paroquial: Pe. Jaysson França Alves",
+      "Cooperador: Diácono José Luíz Afonso Neto"
+    ],
+    "office": [
+      "Segunda a Sexta: 9h às 12h30 e 14h às 16h30",
+      "Sábado: 08h00 - 12h00"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413015844_21.jpg",
+    "priestImage": "https://diocesefranca.org.br/images/20210516224220_padre.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00",
+          "19:30"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça a sexta-feira: 7h",
+      "Sexta-feira: 19h30",
+      "Sábado: 19h",
+      "Domingo: 8h, 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela N. Sra Mãe da Divina Providência",
+        "address": "Rua Wanderlei Riscolino da Silva, 1220 - Jardim Cambuí - CEP - 14.409-682",
+        "massesRaw": [
+          "Missas: Domingo às 19h00"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santa Cruz",
+        "address": "Avenida Monteiro Lobato, 800 - Miramontes - CEP - 14.409-500",
+        "massesRaw": [
+          "Missas: Terça-feira 19h30 e Domingo 8h00"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:00"
+            ]
+          },
+          {
+            "day": "Terça-feira",
+            "times": [
+              "19:30"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São Miguel",
+        "address": "Rua José Mafas, 991 - Parque do Horto",
+        "massesRaw": [
+          "Missas: Quarta-feira 19h30, Domingo 9h30."
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:30",
+              "19:30"
+            ]
+          },
+          {
+            "day": "Quarta-feira",
+            "times": [
+              "09:30",
+              "19:30"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:54.881Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2068&id_orgao=1"
+  },
+  {
+    "id": 2069,
+    "name": "Paróquia São Francisco de Assis",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Dom Bernardo José Bueno Mielle, 1714, Jardim Aeroporto III, 14.404-261",
+    "cep": "14405-203",
+    "lat": null,
+    "lon": null,
+    "phones": [
+      "(16) 3721-2294"
+    ],
+    "email": "secretaria@prsaofrancisco.com.br",
+    "site": null,
+    "priest": "Pe. Cássio Dias Borges",
+    "clergy": [],
+    "office": [
+      "Terça a sexta-feira: 10h30 - 16h30",
+      "Sábado: 08h - 12h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413020004_22.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_F0C9C5-9E3333-EF9367-950BEC-5F9253-584103.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:00",
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "1ª Sexta do mês 19h00",
+      "Domingo: 08h, 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Sagrado Coração de Jesus",
+        "address": "Rua Alípio Resende de Araújo, 2105, Jardim Aeroporto II",
+        "massesRaw": [
+          "Sábado 19h",
+          "Domingo 09h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:30"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:39:58.656Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2069&id_orgao=1"
+  },
+  {
+    "id": 2070,
+    "name": "Paróquia São João Batista",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua José Deocleciano Ribeiro, 4611, Jardim Noêmia. CEP 14.403-762",
+    "cep": "14405-203",
+    "lat": -20.5474722,
+    "lon": -47.3577328,
+    "phones": [
+      "(16) 3701-8468",
+      "(16) 3721-2294"
+    ],
+    "email": "igrejasaojoao@hotmail.com",
+    "site": null,
+    "priest": "Pe. Alessandro Orlovski",
+    "clergy": [
+      "Vigário paroquial: Pe. Welington Eustáquio"
+    ],
+    "office": [
+      "Segunda a sexta-feira: 8h – 11h30; 13h30 - 17h30",
+      "Sábado: 8h - 12h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413020052_23.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_344764-527E7A-7978D3-04B801-F8D37C-07AAA8.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça, Sexta - feira e Sábado, 19h",
+      "Domingo, 8h e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Santa Dorothea",
+        "address": "Rua Urias Alves Taveira, nº 6571. Residencial Ana Dorothea",
+        "massesRaw": [
+          "Quinta-feira 19h / Domingo 10h",
+          "Quinta-feira, 19h e Domingo, 09h30."
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:30",
+              "10:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Nossa Senhora do Carmo",
+        "address": null,
+        "massesRaw": [
+          "2ª Quarta-feira do mês, às 19h30."
+        ],
+        "masses": []
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:40:02.957Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2070&id_orgao=1"
+  },
+  {
+    "id": 2074,
+    "name": "Paróquia São Judas",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Vila Nova",
+    "address": "Rua Francisco Marques, 763, Vila Nova, CEP: 14.405-342",
+    "cep": "14405-203",
+    "lat": -20.534074,
+    "lon": -47.4128245,
+    "phones": [
+      "(16) 3720-3057",
+      "(16) 99997-5520",
+      "(16) 3721-2294"
+    ],
+    "email": "saojudas@diocesefranca.org.br",
+    "site": null,
+    "priest": "Frei Israel Costa Cardoso, OFM",
+    "clergy": [
+      "Vigário: Frei Joaquim Camilo,OFM",
+      "Cooperador: Frei Fernando Aparecido dos Santos OFM, Frei Fábio Rogério Sanches, OFM"
+    ],
+    "office": [
+      "Segunda a sexta: 08hs às 18hs",
+      "Sábado: 08h às 11h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413020750_27.jpg",
+    "priestImage": "https://diocesefranca.org.br/images/20210516224220_padre.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "10:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "19:30"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "06:30",
+          "19:30"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "06:30",
+          "19:30"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "06:30",
+          "19:30"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "06:30",
+          "19:30"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Segunda: 19h30",
+      "Terça a Sexta: 06h30 e 19h30",
+      "Sábado: 07hs e 19hs",
+      "Domingo: 07h,10h,17h e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Nossa Senhora da Guadalupe",
+        "address": "Vila São Sebaastião",
+        "massesRaw": [
+          "Domingo às 08h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "08:30"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santa Clara",
+        "address": "Rua Anésio Basílio dos Santos, 2030 - Jardim Palmeiras",
+        "massesRaw": [
+          "Domingo às 10h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santa Maria dos Anjos",
+        "address": "Av. Nossa Senhora de Lourdes - Residencial Santa Clara",
+        "massesRaw": [
+          "Sábado às 19h"
+        ],
+        "masses": [
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santo Antônio Santana Galvão",
+        "address": "Rua Dillco Rosa Faria, n. 274 - Jardim Pulicano",
+        "massesRaw": [
+          "Sábado às 19h"
+        ],
+        "masses": [
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Nossa Senhora Aparecida",
+        "address": "Bom Jardim",
+        "massesRaw": [
+          "1ª Terça-feira às 20h"
+        ],
+        "masses": []
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:40:07.673Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2074&id_orgao=1"
+  },
+  {
+    "id": 2075,
+    "name": "Paróquia São Pedro",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": null,
+    "address": "Rua Osvaldo de Oliveira Campos, n°2720, Vila Europa, CEP: 14.403-218",
+    "cep": "14405-203",
+    "lat": -20.5614852,
+    "lon": -47.3941926,
+    "phones": [
+      "(16) 3702-6685",
+      "(16) 99206-2547",
+      "(16) 3721-2294"
+    ],
+    "email": "saopedro@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Omar Rachad Ghinaim",
+    "clergy": [
+      "Cooperador: Diácono Gabriel Barbosa Melo"
+    ],
+    "office": [
+      "Segunda a sexta-feira das 12h às 18h",
+      "Sábado das 08h30 às 12h",
+      "Horário de Atendimento",
+      "Terça, quarta e quinta-feira das 14h às 17h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413020831_28.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_C4041E-171531-0D7783-DDA2F7-0AE532-0391B1.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:30",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:30"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça e Quinta-feira: 19h",
+      "Quarta e Sexta-feira: 7h",
+      "Sábado: Comunidades Caminho Neo-Catecumenal às 19h30",
+      "Domingo: 08h30 e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Santa Teresinha do Menino Jesus",
+        "address": "Rua. Dr. Agnelo Morato, 1210 – Prolongamento do Jardim Flórida CEP: 14.403-276",
+        "massesRaw": [
+          "Quinta-feira às 19h30 e Domingo às 10h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:00"
+            ]
+          },
+          {
+            "day": "Quinta-feira",
+            "times": [
+              "19:30"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela São João Paulo II",
+        "address": "Av. José Marcelo Leite, 2080 – Parque dos Lima",
+        "massesRaw": [
+          ": Terça-feira às 19h e Sábado às 18h30"
+        ],
+        "masses": [
+          {
+            "day": "Terça-feira",
+            "times": [
+              "19:00"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "18:30"
+            ]
+          }
+        ]
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:40:12.507Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2075&id_orgao=1"
+  },
+  {
+    "id": 2076,
+    "name": "Paróquia São Sebastião",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Estação",
+    "address": "Rua José de Alencar, 1907, Estação, CEP: 14.405-208",
+    "cep": "14405-203",
+    "lat": -20.5344028,
+    "lon": -47.4113684,
+    "phones": [
+      "(16) 99154-8258",
+      "(16) 3721-2294"
+    ],
+    "email": "pssebastiaofranca@hotmail.com",
+    "site": null,
+    "priest": "Pe. Valdomiro José de Souza",
+    "clergy": [
+      "Vigário paroquial: Pe José Ricardo Batista Cintra",
+      "Cooperador: Diácono Amauri Junqueira"
+    ],
+    "office": [
+      "Segunda-Feira: 13h às 17h",
+      "Terça à Sexta Feira: das 08h às 13h e das 14h às 17h",
+      "Sábados: 08h às 11h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20251226175350_1000167251.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_4D3543-0E0DD3-DDE9EB-740786-1503DF-E593F9.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "09:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça-feira a Sábado: 19h",
+      "Domingo: 7h, 9h, 19h",
+      "Última terça-feira do mês: Missa da catequese 1ª Eucaristia",
+      "1ª Sexta-feira do mês: Missa em honra ao Sagrado Coração de Jesus às 19h",
+      "3⁰ Domingo do mês: Benção das gestantes na missa das 19h"
+    ],
+    "chapels": [],
+    "scrapedAt": "2026-07-19T14:40:16.911Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2076&id_orgao=1"
+  },
+  {
+    "id": 2079,
+    "name": "Paróquia São Vicente de Paulo",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Jardim Portinari",
+    "address": "Rua Iracy Pereira Goulart, 3309, Jardim Tropical I, CEP: 14.407-079",
+    "cep": "14405-203",
+    "lat": -20.5008121,
+    "lon": -47.4167219,
+    "phones": [
+      "(16) 3704-8465",
+      "(16) 3721-2294"
+    ],
+    "email": "psvpaulo@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Juliano Gonçalves Delgado",
+    "clergy": [
+      "Vigário paroquial: Pe. Aparecido Raimundo de Sousa Meireles",
+      "Cooperador: Diácono Carlos José Lucindo | Diácono Cláudio José Soares Araújo | Diácono Júlio César Naves"
+    ],
+    "office": [
+      "Terça a Sexta-Feira: 8h às 11h30 e 13h às 17h30",
+      "Sábado: 8h às 11h",
+      "Horário de Atendimento dos Padres:",
+      "Agendar na secretaria paroquial: (16) 3704-8465"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413021305_32.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_2A65B7-69DE5B-369377-1D2B4F-96443A-DC17BC.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "09:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "06:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "19:30"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "15:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "19:30"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "18:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Terça-feira: 6h",
+      "Quarta-feira: 19h30",
+      "Quinta-feira: 15h",
+      "Sexta-feira: 19h30",
+      "Sábado: (Salão Paroquial) Missa Cominidade Neocatecumenal: 18h",
+      "Domingo: 7h, 9h e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela Santo Expedito",
+        "address": "Rua João Luiz Facirolli, 2411 - Jardim Pinheiros II, CEP: 14.407-365",
+        "massesRaw": [
+          "Terça-feira às 19h30 /",
+          "Sábado 19h"
+        ],
+        "masses": [
+          {
+            "day": "Terça-feira",
+            "times": [
+              "19:30"
+            ]
+          },
+          {
+            "day": "Sábado",
+            "times": [
+              "19:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Nossa Senhora de Lourdes",
+        "address": "Av. Wanderlei Mancini, 1830 – Parque Vicente Leporace I, CEP: 14.407-325",
+        "massesRaw": [
+          ": Domingo 09h"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "09:00"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santa Filomena",
+        "address": "Rua Antônio Rúbio Herreiro, 441 – Parque Vicente Leporace II, CEP: 14.407-047",
+        "massesRaw": [
+          ": Domingo, 10h30"
+        ],
+        "masses": [
+          {
+            "day": "Domingo",
+            "times": [
+              "10:30"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capela Santo Expedito promove a 5ª Novena em louvor a São José",
+        "address": "-->",
+        "massesRaw": [],
+        "masses": []
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:40:20.762Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2079&id_orgao=1"
+  },
+  {
+    "id": 2064,
+    "name": "Santuário Diocesano Santo Antônio",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Cidade Nova",
+    "address": "Rua Capitão Anselmo, 1411, Cidade Nova, 14.401-154",
+    "cep": "14405-203",
+    "lat": -20.5300273,
+    "lon": -47.3903571,
+    "phones": [
+      "(16) 99241-4909",
+      "(16) 3721-2294"
+    ],
+    "email": "psantoniofranca@gmail.com",
+    "site": null,
+    "priest": "Pe. Raphael Romão",
+    "clergy": [
+      "Vigário paroquial: Pe. Fernando Antônio Costa"
+    ],
+    "office": [
+      "Segunda a Sexta-feira: 8h - 12h / 13h - 17h",
+      "Sábado: 8h30 - 11h30"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413015357_17.jpg",
+    "priestImage": "https://diocesefranca.org.br/images/20210516224220_padre.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "09:00",
+          "11:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "07:00",
+          "15:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "17:00",
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Segunda: 19h",
+      "Terça a sexta: 07h e 19h",
+      "Sábado: 17h e 19h,",
+      "Domingo: 7h, 9h, 11h, 17h, 19h",
+      "Terça-feira 15h: Terço das Mulheres",
+      "Quinta-feira de Adoração 07h: Santa Missa",
+      "07h40: Início da Adoração",
+      "18h50: Benção do Santíssimo Sacramento",
+      "19h: Santa Missa"
+    ],
+    "chapels": [],
+    "scrapedAt": "2026-07-19T14:40:24.734Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2064&id_orgao=1"
+  },
+  {
+    "id": 2080,
+    "name": "Sé Catedral Nossa Senhora da Conceição",
+    "city": "Franca",
+    "state": "SP",
+    "bairro": "Centro",
+    "address": "Praça Nossa Senhora da Conceição, S/N, Centro, CEP 14.400-970",
+    "cep": "14405-203",
+    "lat": -20.5503289,
+    "lon": -47.4053,
+    "phones": [
+      "(16) 3721-4085",
+      "(16) 99978-7736",
+      "(16) 3721-2294"
+    ],
+    "email": "catedral@diocesefranca.org.br",
+    "site": null,
+    "priest": "Pe. Rogério Ruffo",
+    "clergy": [
+      "Vigário paroquial: Pe. Luiz Ricardo Tertuliano",
+      "Cooperador: Diácono João César Martini"
+    ],
+    "office": [
+      "Segunda a Sexta-feira: 8h - 12h15 e 13h30 - 17h",
+      "Sábado 08h às 11h"
+    ],
+    "image": "https://diocesefranca.org.br/images/20210413021455_33.jpg",
+    "priestImage": "http://www.diocesefranca.org.br/sist_integrado/uploads/avatars/IMG_4ABFDF-7E45A9-AFF705-0D9DA0-B5AF73-168A31.png",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "09:00",
+          "10:30",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "massesRaw": [
+      "Segunda: 7h",
+      "Terça à Quinta-feira : 7h e 19h",
+      "Sexta-feira: 7h",
+      "Sábado: 19h",
+      "Domingo: 7h, 9h, 10h30, 17h e 19h"
+    ],
+    "chapels": [
+      {
+        "name": "Capela São Francisco de Assis",
+        "address": "Rua Frederico Ozanan, n°1111. Jardim Consolação",
+        "massesRaw": [],
+        "masses": []
+      },
+      {
+        "name": "Capela Nossa Senhora de Lourdes",
+        "address": "Rua Major Claudiano, n° 1488. Centro.",
+        "massesRaw": [],
+        "masses": []
+      }
+    ],
+    "scrapedAt": "2026-07-19T14:40:28.734Z",
+    "sourceUrl": "https://diocesefranca.org.br/?menu=noticia_detalhe&id=2080&id_orgao=1"
+  }
+]

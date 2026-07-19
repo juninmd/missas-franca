@@ -1,0 +1,15 @@
+{
+  "name": "missas-franca",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bot Telegram: horarios de missas das paroquias de Franca-SP com dados reais e atualizados",
+  "scripts": {
+    "bot": "bun run src/bot.ts",
+    "scrape": "bun run src/scrape.ts",
+    "refresh": "bun run src/refresh.ts"
+  },
+  "devDependencies": {
+    "bun-types": "^1.3.14"
+  }
+}

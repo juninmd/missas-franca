@@ -1,0 +1,454 @@
+[
+  {
+    "key": "d2MlJ",
+    "name": "Catedral Diocesana Nossa Senhora da Conceição",
+    "bairro": "Centro",
+    "address": "Praça Nossa Senhora da Conceição, s/n",
+    "cep": "14400-970",
+    "city": "Franca",
+    "state": "SP",
+    "lat": null,
+    "lon": null,
+    "priest": "Mons. José Geraldo Segantin",
+    "phones": [
+      "(16) 3721-4085"
+    ],
+    "site": "http://www.secatedralfranca.org.br",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "09:00",
+          "10:30",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "07:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "07:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "07:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00",
+          "17:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:23.824Z",
+    "sourceUpdatedAt": "09/06/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=d2MlJ"
+  },
+  {
+    "key": "9A6hp",
+    "name": "Paróquia Menino Jesus de Praga e Santa Efigênia",
+    "bairro": "Jardim Pedreiras",
+    "address": "Rua Sacramento, 605",
+    "cep": "14405-052",
+    "city": "Franca",
+    "state": "SP",
+    "lat": null,
+    "lon": null,
+    "priest": "Pe. Célio Adriano Cintra",
+    "phones": [
+      "(16) 3402-2292",
+      "(16) 3721-3246"
+    ],
+    "site": null,
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "09:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:15"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "19:15"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "19:15"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "19:15"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "19:00"
+        ]
+      }
+    ],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:26.091Z",
+    "sourceUpdatedAt": "21/05/2014",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=9A6hp"
+  },
+  {
+    "key": "uWbsl",
+    "name": "Paróquia Nossa Senhora Aparecida",
+    "bairro": "Vila Aparecida",
+    "address": "Av. Distrito Federal, 1285",
+    "cep": "14401-342",
+    "city": "Franca",
+    "state": "SP",
+    "lat": null,
+    "lon": null,
+    "priest": "Frei José Carlos Jacintho Barbosa",
+    "phones": [
+      "(16) 3707-2222"
+    ],
+    "site": "http://www.capelinha.org.br",
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "08:30",
+          "10:30",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "07:00",
+          "19:00"
+        ]
+      }
+    ],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:27.440Z",
+    "sourceUpdatedAt": "11/11/2017",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=uWbsl"
+  },
+  {
+    "key": "EkqlU",
+    "name": "Paróquia Nossa Senhora das Graças",
+    "bairro": "Centro",
+    "address": "Rua Major Nicácio, 1779",
+    "cep": "14400-970",
+    "city": "Franca",
+    "state": "SP",
+    "lat": null,
+    "lon": null,
+    "priest": null,
+    "phones": [
+      "(16) 3724-2623"
+    ],
+    "site": null,
+    "masses": [],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:24.723Z",
+    "sourceUpdatedAt": "27/05/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=EkqlU"
+  },
+  {
+    "key": "m7HTc",
+    "name": "Paróquia Sant'Ana",
+    "bairro": "Aeroporto I",
+    "address": "Rua Antônio Pedro Ferreira Nº 796",
+    "cep": "14404-040",
+    "city": "Franca",
+    "state": "SP",
+    "lat": -20.5805808,
+    "lon": -47.3751461,
+    "priest": "Pe. Luiz Carlos de Souza",
+    "phones": [
+      "(16) 3701-8533"
+    ],
+    "site": null,
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "08:30",
+          "09:00",
+          "18:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "18:00",
+          "19:00"
+        ]
+      }
+    ],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:22.913Z",
+    "sourceUpdatedAt": "14/10/2015",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=m7HTc"
+  },
+  {
+    "key": "lTr7M",
+    "name": "Paróquia Santa Rita de Cássia",
+    "bairro": "Santa Rita",
+    "address": "Alameda Arminda Nogueira, 1735",
+    "cep": "14400-970",
+    "city": "Franca",
+    "state": "SP",
+    "lat": -20.5450938,
+    "lon": -47.3945065,
+    "priest": null,
+    "phones": [
+      "(16) 3722-0876"
+    ],
+    "site": null,
+    "masses": [],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:26.989Z",
+    "sourceUpdatedAt": "27/05/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=lTr7M"
+  },
+  {
+    "key": "cR6Lx",
+    "name": "Paróquia Santo Antônio",
+    "bairro": "Cidade Nova",
+    "address": "Rua Cap.anselmo, 1411",
+    "cep": "14401-154",
+    "city": "Franca",
+    "state": "SP",
+    "lat": -20.5300273,
+    "lon": -47.3903571,
+    "priest": null,
+    "phones": [
+      "(16) 3722-7012"
+    ],
+    "site": null,
+    "masses": [],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:25.187Z",
+    "sourceUpdatedAt": "27/05/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=cR6Lx"
+  },
+  {
+    "key": "NnbWt",
+    "name": "Paróquia São Benedito",
+    "bairro": "Boa Vista",
+    "address": "Rua Tuffy Jorge, 478",
+    "cep": "14405-146",
+    "city": "Franca",
+    "state": "SP",
+    "lat": null,
+    "lon": null,
+    "priest": null,
+    "phones": [
+      "(16) 3722-1220"
+    ],
+    "site": null,
+    "masses": [],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:23.375Z",
+    "sourceUpdatedAt": "27/05/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=NnbWt"
+  },
+  {
+    "key": "WqMII",
+    "name": "Paróquia São Judas Tadeu",
+    "bairro": "Vila Nova",
+    "address": "Rua Francisco Marques, 763",
+    "cep": "14400-970",
+    "city": "Franca",
+    "state": "SP",
+    "lat": -20.534074,
+    "lon": -47.4128245,
+    "priest": null,
+    "phones": [
+      "(16) 3720-3057"
+    ],
+    "site": null,
+    "masses": [
+      {
+        "day": "Domingo",
+        "times": [
+          "07:00",
+          "10:00",
+          "17:00",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Segunda-feira",
+        "times": [
+          "19:00"
+        ]
+      },
+      {
+        "day": "Terça-feira",
+        "times": [
+          "06:30",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quarta-feira",
+        "times": [
+          "06:30",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Quinta-feira",
+        "times": [
+          "06:30",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sexta-feira",
+        "times": [
+          "06:30",
+          "19:00"
+        ]
+      },
+      {
+        "day": "Sábado",
+        "times": [
+          "06:30",
+          "19:00"
+        ]
+      }
+    ],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:27.895Z",
+    "sourceUpdatedAt": "12/11/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=WqMII"
+  },
+  {
+    "key": "07LwQ",
+    "name": "Paróquia São Sebastião",
+    "bairro": "Estação",
+    "address": "Rua Jose de Alencar, 1907",
+    "cep": "14400-970",
+    "city": "Franca",
+    "state": "SP",
+    "lat": -20.5344028,
+    "lon": -47.4113684,
+    "priest": null,
+    "phones": [
+      "(16) 3722-2914"
+    ],
+    "site": null,
+    "masses": [],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:25.636Z",
+    "sourceUpdatedAt": "27/05/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=07LwQ"
+  },
+  {
+    "key": "ft73h",
+    "name": "Paróquia São Vicente de Paulo",
+    "bairro": "Jardim Portinari",
+    "address": "Rua Clóvis Vieira de Andrade,1351",
+    "cep": "14407-080",
+    "city": "Franca",
+    "state": "SP",
+    "lat": -20.5008121,
+    "lon": -47.4167219,
+    "priest": null,
+    "phones": [
+      "(16) 3704-8465"
+    ],
+    "site": null,
+    "masses": [],
+    "confessions": null,
+    "scrapedAt": "2026-07-19T12:42:26.538Z",
+    "sourceUpdatedAt": "27/05/2013",
+    "sourceUrl": "https://www.horariodemissa.com.br/igreja.php?k=ft73h"
+  }
+]
