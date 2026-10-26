@@ -1,6 +1,7 @@
 import { TOKEN, DAILY_HOUR } from "./config";
 import { tg, type TgUpdate } from "./telegram";
 import { store } from "./store";
+import { esc } from "./format";
 import {
   loadParishes,
   all,
@@ -26,7 +27,7 @@ const HELP = [
   "/parar — cancelar o aviso diário",
   "/ajuda — esta mensagem",
   "",
-  "<i>Dados reais de horariodemissa.com.br. Confirme sempre antes de ir.</i>",
+  "<i>Dados da Diocese de Franca (diocesefranca.org.br). Confirme sempre antes de ir.</i>",
 ].join("\n");
 
 function dayLabelFor(index: number): string {
@@ -83,7 +84,7 @@ async function handleText(chatId: number, text: string): Promise<void> {
       }
       const hits = search(arg);
       if (!hits.length) {
-        await tg.sendMessage(chatId, `Nenhuma paróquia encontrada para "<b>${arg}</b>". Veja /paroquias.`);
+        await tg.sendMessage(chatId, `Nenhuma paróquia encontrada para "<b>${esc(arg.length > 64 ? `${arg.slice(0, 64)}…` : arg)}</b>". Veja /paroquias.`);
         return;
       }
       if (hits.length === 1) {
@@ -139,7 +140,7 @@ async function sendParish(chatId: number, id: string): Promise<void> {
   }
   if (p.image) {
     try {
-      await tg.sendPhoto(chatId, p.image, `⛪ <b>${p.name}</b>`);
+      await tg.sendPhoto(chatId, p.image, `⛪ <b>${esc(p.name)}</b>`);
     } catch {
       /* imagem indisponivel -> segue sem foto */
     }

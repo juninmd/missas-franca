@@ -17,7 +17,7 @@ for (let i = 1; i <= tries; i++) {
     const idx = todayIndex();
     await tg.sendMessage(
       ADMIN_CHAT,
-      "✅ <b>Homologação — Missas Franca</b>\nBot online com dados reais (horariodemissa.com.br). Exemplos reais abaixo.",
+      "✅ <b>Homologação — Missas Franca</b>\nBot online com dados reais (diocesefranca.org.br). Exemplos reais abaixo.",
     );
     await tg.sendMessage(ADMIN_CHAT, daySummary(`hoje (${dayName(idx)})`, massesOnDay(dayName(idx))));
     const p = search("catedral")[0]!;
