@@ -1,3 +1,4 @@
+import { renameSync } from "node:fs";
 import type { Parish } from "./types";
 import { scrapeDiocese, norm } from "./diocese";
 
@@ -72,7 +73,21 @@ for (const p of parishes) {
   }
 }
 
-await Bun.write(OUT, JSON.stringify(parishes, null, 2));
+// Nunca sobrescrever dados bons com um scrape vazio ou parcial (site fora do ar, layout novo).
+const prev = (await Bun.file(OUT).json().catch(() => [])) as Parish[];
+const min = Math.max(5, Math.floor(0.7 * prev.length));
+if (parishes.length < min) {
+  const now = new Set(parishes.map((p) => p.id));
+  console.error(
+    `ERRO: ${parishes.length} paróquias encontradas, esperado >= ${min}. Arquivo atual preservado.`,
+  );
+  const gone = prev.filter((p) => !now.has(p.id)).map((p) => p.name);
+  if (gone.length) console.error(`Sumiram: ${gone.join(", ")}`);
+  process.exit(1);
+}
+// Gravação atômica: tmp + rename.
+await Bun.write(`${OUT}.tmp`, JSON.stringify(parishes, null, 2));
+renameSync(`${OUT}.tmp`, OUT);
 console.log(`\nOK -> data/paroquias.json`);
 for (const p of parishes)
   console.log(
